@@ -1,3 +1,5 @@
+[![pipeline status](https://gitlab.com/kmbn/docker-docker-compose/badges/master/pipeline.svg)](https://gitlab.com/kmbn/docker-docker-compose/commits/master)
+
 # Docker Image with Docker and Docker-Compose
 This image contains `Docker`, `docker-compose`, and `Python 3`. It is based on `docker:stable`, the official image for Docker.
 
